@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sriram
-- 👀 I’m interested in Web Development and Computer Networking
-- 🌱 I’m currently learning New Front-End Frameworks and Configuring Cisco System Products
+- 👀 I’m interested in backEnd Development and Computer Networking
+- 🌱 I’m currently learning New BackendFrameworks and Configuring Cisco System Products
 - 💞️ I’m looking to collaborate on Open-Source Projects
 
 
