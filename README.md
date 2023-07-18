@@ -1,6 +1,7 @@
+
 # 💫 About Me:
 
- Hi !!, This is Sriram<br><br>I develop logic and database operations for applications and manage them on blue sky (cloud in cringe way :))).<br>A Network Security Geek always try to be safe out there in the internet.<br>
+#### Hi !!, This is Sriram<br><br>I develop logic and database operations for applications and manage them on blue sky (cloud in cringe way :))).<br>A Network Security Geek always try to be safe out there in the internet.<br>
 
 
 ## 🌐 Socials:
@@ -28,7 +29,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sriramreddyp&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-     ![](https://github-readme-streak-stats.herokuapp.com/?user=Sriramreddyp&theme=dark&hide_border=false)<br/>
+  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sriramreddyp&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
