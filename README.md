@@ -1,6 +1,6 @@
 # 🧔 About Me
 
-#### Hi !!, This is Sriram<br><br>I develop logic and database operations for applications and manage them on blue sky (cloud in cringe way :))).<br><br>A Network Security Geek always try to be safe out there in the internet.<br>
+#### Hi !! This is Sriram<br><br>I develop logic and database operations for applications and manage them on blue sky (cloud in cringe way :))).<br><br>A Network Security Geek always try to be safe out there in the internet.<br>
 
 <br>
 
