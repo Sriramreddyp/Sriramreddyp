@@ -19,17 +19,6 @@
 
 <br>
 
-# 📊 GitHub Stats:
 
-<div align="center">
-  
-
-
-![](https://github-readme-stats.vercel.app/api?username=Sriramreddyp&theme=dark&hide_border=false&include_all_commits=false&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sriramreddyp&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-</div>
-
----
-[![](https://visitcount.itsvg.in/api?id=Sriramreddyp&label=Checkouts&color=1&icon=4&pretty=true)](https://visitcount.itsvg.in)
 
 
